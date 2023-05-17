@@ -1,7 +1,7 @@
 👋 Hi, I’m Phạm Hoài Nam
 - 👀 I’m Web Developer
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to work internship
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to work Intern Reactjs
 - 📫 How to reach me Facebook :https://www.facebook.com/namhoai2102/
 
 <!---
