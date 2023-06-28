@@ -1,10 +1,12 @@
-👋 Hi, I’m Phạm Hoài Nam
-- 👀 I’m Web Developer
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to work Intern Reactjs
-- 📫 How to reach me Facebook :https://www.facebook.com/namhoai2102/
+## Chào mọi người, Mình tên là Phạm Hoài Nam, có thể làm được Front-End, Back-End
+* Hiện tại mình là Lập trình viên Website
+* Một số cộng nghệ HTML5, CSS3 (TaiwinCss,Bootstrap 5), ReactJS (TypeScript), NextJS, MongoDB, MySQL, Express, PHP
+* Một số kỹ năng:
+   * Responsive
+   * CRUD (Restful API)
+   * Redux, Redux Toolkit, Redux Thunk
+   * JWT, Authen
+   * Sử dụng FireBase, Google Drive để lưu trữ dữ liệu
+   * UI : MUI
+   * SEO
 
-<!---
-namph2102/namph2102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
