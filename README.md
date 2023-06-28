@@ -1,12 +1,13 @@
-## Chào mọi người, Mình tên là Phạm Hoài Nam, có thể làm được Front-End, Back-End
+# Chào mọi người, Mình tên là Phạm Hoài Nam
+## Có thể làm Front-End và Back-End(cơ bản)
 * Hiện tại mình là Lập trình viên Website
-* Một số cộng nghệ HTML5, CSS3 (TaiwinCss,Bootstrap 5), ReactJS (TypeScript), NextJS, MongoDB, MySQL, Express, PHP
+* Một số công nghệ đã từng sử dụng HTML5, CSS3 (TaiwinCss,Bootstrap 5), ReactJS (TypeScript), NextJS, MongoDB, MySQL, Express, PHP (Laravel)
 * Một số kỹ năng:
    * Responsive
    * CRUD (Restful API)
    * Redux, Redux Toolkit, Redux Thunk
    * JWT, Authen
    * Sử dụng FireBase, Google Drive để lưu trữ dữ liệu
-   * UI : MUI
+   * UI: MUI, Taiwincss
    * SEO
 
