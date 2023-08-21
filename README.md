@@ -12,6 +12,6 @@
    * UI: MUI, Taiwincss
    * SEO
 * Dự án nổi bật
-- https://zecky.online
-- https://blog.zecky.online/
-- https://www.videotv.website/
+  * https://zecky.online  (Nhắn tin)
+  * https://blog.zecky.online (Tin Tức)
+  * https://www.videotv.website (Phim)
