@@ -9,7 +9,7 @@
    * Redux, Redux Toolkit, Redux Thunk
    * JWT, Authen
    * Sử dụng FireBase, Google Drive để lưu trữ dữ liệu
-   * UI: MUI, Taiwincss
+   * UI: MUI
    * SEO
 * Dự án nổi bật
   * https://zecky.online  (Nhắn tin)
