@@ -11,4 +11,7 @@
    * Sử dụng FireBase, Google Drive để lưu trữ dữ liệu
    * UI: MUI, Taiwincss
    * SEO
-
+* Dự án nổi bật
+- https://zecky.online
+- https://blog.zecky.online/
+- https://www.videotv.website/
