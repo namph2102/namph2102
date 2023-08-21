@@ -4,7 +4,8 @@
 * Một số công nghệ đã từng sử dụng HTML5, CSS3 (Tailwindcss,Bootstrap 5), ReactJS (TypeScript), NextJS, MongoDB, MySQL, Express, PHP (Laravel)
 * Một số kỹ năng:
    * Responsive
-   * Design Pattern 
+   * Design Pattern
+   * Cổng thanh toán (Paypal)
    * CRUD (Restful API Express)
    * Redis, Socket
    * Redux, Redux Toolkit, Redux Thunk
