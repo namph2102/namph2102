@@ -9,7 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=namph2102&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💫About Me :
-# Chào mọi người, mình tên là Phạm Hoài Nam
 ## Có thể làm Front-End và Back-End(cơ bản)
 * Hiện tại mình là Lập trình viên Website
   
