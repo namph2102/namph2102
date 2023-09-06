@@ -39,7 +39,10 @@
   * https://zecky.online  (Nhắn tin)
   * https://blog.zecky.online (Tin Tức)
   * https://www.videotv.website (Phim)
-  * Thư viện (NPM): - https://www.npmjs.com/package/translate-audio (618 lượt tải)
-                     - https://www.npmjs.com/package/react-swisskit (232 lượt tải)
----
+
+* Thư viện (NPM):
+   * https://www.npmjs.com/package/translate-audio (618 lượt tải)
+   * https://www.npmjs.com/package/react-swisskit (232 lượt tải)
+     
+--- Cảm ơn đã ghé thăm ---
 [![](https://visitcount.itsvg.in/api?id=namph2102&icon=0&color=0)](https://visitcount.itsvg.in)
