@@ -20,7 +20,7 @@
   * Front-End: HTML5, CSS3 (Tailwindcss,Bootstrap 5), Javascript, ReactJS (TypeScript), NextJS (TypeScript)
   * Back-End: Node (Express,NestJS), PHP (Laravel)
   * DataBase: MongoDB, MySQl
-  * Case: Redis
+  * Cache : Redis
   * Cloud: Google Drive, FireBase, cloudinary
     
 * Một số kỹ năng:
