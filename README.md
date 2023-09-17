@@ -25,7 +25,6 @@
     
 * Một số kỹ năng:
    * Responsive
-   * Design Pattern
    * Cổng thanh toán (Paypal)
    * CRUD (Restful API Express, NestJS)
    * Redis, Socket
