@@ -25,6 +25,7 @@
     
 * Một số kỹ năng:
    * Responsive
+   * OOP, Giải thuật cơ bản
    * Cổng thanh toán (Paypal)
    * CRUD (Restful API Express, NestJS)
    * Redis, Socket
