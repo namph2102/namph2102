@@ -20,13 +20,14 @@
   * Front-End: HTML5, CSS3 (Tailwindcss,Bootstrap 5), Javascript, ReactJS (TypeScript), NextJS (TypeScript)
   * Back-End: Node (Express,NestJS), PHP (Laravel)
   * DataBase: MongoDB, MySQl
-  * Cache : Redis
+  * Cache: Redis
   * Cloud: Google Drive, FireBase, cloudinary
     
 * Một số kỹ năng:
    * Responsive
    * OOP, Giải thuật cơ bản
    * Cổng thanh toán (Paypal)
+   * Mail 
    * CRUD (Restful API Express, NestJS)
    * Redis, Socket
    * Redux, Redux Toolkit, Redux Thunk
@@ -41,8 +42,8 @@
   * https://www.videotv.website (Phim)
 
 * Thư viện (NPM):
-   * https://www.npmjs.com/package/translate-audio (618 lượt tải)
-   * https://www.npmjs.com/package/react-swisskit (232 lượt tải)
+   * https://www.npmjs.com/package/translate-audio (cao nhất 687 lượt tải)
+   * https://www.npmjs.com/package/react-swisskit (cao nhất 232 lượt tải)
      
 #### --- Cảm ơn đã ghé thăm❤️❤️❤️ ---
 [![](https://visitcount.itsvg.in/api?id=namph2102&icon=0&color=0)](https://visitcount.itsvg.in)
