@@ -37,7 +37,7 @@
    * SEO
      
 * Dự án nổi bật
-  * https://zecky.online  (Nhắn tin)
+  * https://zecky.online  (Nhắn tin) --> Hơn 800 lượt ghé thăm
   * https://blog.zecky.online (Tin Tức)
   * https://www.videotv.website (Phim)
 
