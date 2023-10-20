@@ -44,6 +44,10 @@
 * Thư viện (NPM):
    * https://www.npmjs.com/package/translate-audio (cao nhất 687 lượt tải)
    * https://www.npmjs.com/package/react-swisskit (cao nhất 232 lượt tải)
-     
+
+* Người Dùng sử dụng (traffic)
+   * ![translate-audio](https://i.imgur.com/fSnryYs.png)
+   * ![Zecky](https://i.imgur.com/jcIVUOz.png)
+   * 
 #### --- Cảm ơn đã ghé thăm❤️❤️❤️ ---
 [![](https://visitcount.itsvg.in/api?id=namph2102&icon=0&color=0)](https://visitcount.itsvg.in)
