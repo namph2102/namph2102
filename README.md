@@ -47,7 +47,7 @@
 
 * Người Dùng sử dụng (traffic)
    * ![translate-audio](https://i.imgur.com/fSnryYs.png)
-   * ![Zecky](https://i.imgur.com/jcIVUOz.png)
+   * ![Zecky](https://i.imgur.com/jC0ki7c.png)
    * 
 #### --- Cảm ơn đã ghé thăm❤️❤️❤️ ---
 [![](https://visitcount.itsvg.in/api?id=namph2102&icon=0&color=0)](https://visitcount.itsvg.in)
