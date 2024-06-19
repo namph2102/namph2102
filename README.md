@@ -37,13 +37,14 @@
    * SEO
      
 * Dự án nổi bật
-  * https://zecky.online  (Nhắn tin) --> Hơn 800 lượt ghé thăm
-  * https://blog.zecky.online (Tin Tức)
-  * https://www.videotv.website (Phim)
+  * [https://zecky.online](https://chat.namph2002.online/)  (Nhắn tin) --> Hơn 800 lượt ghé thăm
+  * [https://blog.zecky.online ](https://blog.namph2002.online/) (Tin Tức)
+  * [https://www.videotv.website ](https://video.namph2002.online/) (Phim)
 
 * Thư viện (NPM):
    * https://www.npmjs.com/package/translate-audio (cao nhất 687 lượt tải)
    * https://www.npmjs.com/package/react-swisskit (cao nhất 232 lượt tải)
+   * https://www.npmjs.com/package/vn-provinces (cao nhất 76 lượt tải)
 
 * Người Dùng sử dụng (traffic)
    * ![translate-audio](https://i.imgur.com/fSnryYs.png)
