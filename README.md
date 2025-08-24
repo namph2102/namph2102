@@ -37,9 +37,9 @@
    * SEO
      
 * Dự án nổi bật
-  * [https://zecky.online](https://chat.namph2002.online/)  (Nhắn tin) --> Hơn 800 lượt ghé thăm
-  * [https://blog.zecky.online ](https://blog.namph2002.online/) (Tin Tức)
-  * [https://www.videotv.website ](https://video.namph2002.online/) (Phim)
+  * [https://zecky.online](https://chat.nam2102.online/)  (Nhắn tin) --> Hơn 800 lượt ghé thăm
+  * [https://blog.zecky.online ](https://blog.namph2102.online/) (Tin Tức)
+  * [https://www.videotv.website ](https://video.nam2102.online/) (Phim)
 
 * Thư viện (NPM):
    * https://www.npmjs.com/package/translate-audio (cao nhất 687 lượt tải)
